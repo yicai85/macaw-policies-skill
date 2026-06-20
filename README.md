@@ -31,7 +31,7 @@ macaw-policies/
 Clone (or copy) into your Claude Code skills directory:
 
 ```bash
-git clone https://github.com/yicai85/macaw-policies.git ~/.claude/skills/macaw-policies
+git clone https://github.com/yicai85/macaw-policies-skill.git ~/.claude/skills/macaw-policies
 ```
 
 The skill then loads automatically and triggers when you mention MAPL/MACAW policies,
